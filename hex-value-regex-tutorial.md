@@ -54,4 +54,3 @@ The regex I will be explaining is how to search and match for a hex value. The c
 
 My name is Dominic DeCapite and I am a student in a Full Stack Coding Bootcamp. I wrote this tutorial on a hex value regex to better familiarize myself with how regexs operate and what the symbols represent. A link to my Github profile can be found [here](https://github.com/domdecap).
 
-
